@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032592605004",
+    "project_id": "fir-auth-43127",
+    "storage_bucket": "fir-auth-43127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032592605004:android:79190f4a90004fd14219e9",
+        "android_client_info": {
+          "package_name": "com.example.wemayk_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjr7p3PcekaL1OFtBGno3E34M-oYIleoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
